@@ -26,7 +26,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [jjmung](https://www.jjmung.dev). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [jjmung](https://github.com/jjmung/Portfolio). Thanks!
 
 ## Built With
 
